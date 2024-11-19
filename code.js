@@ -1,7 +1,7 @@
-const monedaEl_one = document.getElementById('moneda-origen');
-const monedaEl_two = document.getElementById('moneda-destino');
-const cantidadEl_one = document.getElementById('cantidad-origen');
-const cantidadEl_two = document.getElementById('cantidad-destino');
+const monedaEl_origen = document.getElementById('moneda-origen');
+const monedaEl_destino = document.getElementById('moneda-destino');
+const cantidadEl_origen = document.getElementById('cantidad-origen');
+const cantidadEl_destino = document.getElementById('cantidad-destino');
 const cambioEl = document.getElementById('cambio');
 const tazaEl = document.getElementById('taza');
 
