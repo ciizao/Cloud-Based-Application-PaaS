@@ -1,19 +1,19 @@
 # 💰 Currency Converter Web
----
+
 
 * This is a web application for converting currencies in real-time. It uses technologies such as HTML, CSS, and JavaScript on the frontend, and Node.js along with Express to create a server that efficiently handles conversions. The application is deployed using the **Render** PaaS, making implementation easy and quick.
 
-🚀 **Technologies Used**
+* 🚀 **Technologies Used**
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express
 - **PaaS**: Render
 
-### 📖 How to Use
+## 📖 How to Use
 ---
 
 * To run the project on a local machine, follow these steps:
 
-#### **Clone the Repository**
+### **Clone the Repository**
 
 ```
 git clone https://github.com/ciizao/Cloud-Based-Application-PaaS.git
@@ -23,25 +23,25 @@ git clone https://github.com/ciizao/Cloud-Based-Application-PaaS.git
 
 ![Result](img/Resultado.png "Result Currency Converter")
 
-### 🌐 Deployment on Render
+## 🌐 Deployment on Render
 ---
 
 * The application is deployed on the **Render** platform. You can access the application at the following link:
 
-[Link](https://jsproyectdocker-production.up.railway.app "click to visit")
+* [https://cloud-based-application-paas.onrender.com] (https://cloud-based-application-paas.onrender.com "click to visit")
 
-##### ✅ **Deployment Logs**
+#### ✅ **Deployment Logs**
 
 * Below are the logs confirming the successful deployment of the application.
 
 ![Logs](img/Render1.png "Deployment logs")
 
-##### 🖼 **Deployment**
+#### 🖼 **Deployment**
 * Functionality of the application running on Render.
 
 ![Result Render](img/Resultado-Render.png "Result Render")
 
-### 📂 Repository
+## 📂 Repository
 * The source code for this project is available on GitHub:
 
 ```
